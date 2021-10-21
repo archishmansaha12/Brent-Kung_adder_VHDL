@@ -2,6 +2,7 @@
 
 This repository contains the VHDL codes to run a Brent Kung adder using ModelSim-Altera
 
-#### Input file: tracefile.txt
-#### Output file: outfile.txt
-
+##### Input file: tracefile.txt
+##### Output file: outfile.txt
+##### Top level entity: DUT.vhdl
+##### Testbench file: testbench.vhdl
